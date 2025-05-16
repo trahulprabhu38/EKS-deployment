@@ -2,6 +2,10 @@
 
 This repository contains resources and instructions for deploying a Kubernetes cluster on AWS using Amazon EKS (Elastic Kubernetes Service) and deploying applications to it.
 
+<img width="1800" alt="Image" src="https://github.com/user-attachments/assets/fd16ab04-4fb8-48b2-a8da-9371dd5a1bdf" />
+<img width="1522" alt="Image" src="https://github.com/user-attachments/assets/3a7d9d1b-7bfb-4f82-af6a-c9f223befd38" />
+<img width="1534" alt="Image" src="https://github.com/user-attachments/assets/04d848de-d087-4ebc-9630-3efb8080ebb6" />
+
 ## Project Structure
 
 - `deployment.yaml` - Sample 2048 game deployment configuration
