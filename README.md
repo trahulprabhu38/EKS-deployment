@@ -18,6 +18,7 @@ This repository contains resources and instructions for deploying a Kubernetes c
 
 ### Prerequisites
 
+
 Before you begin, ensure you have installed the necessary tools as described in [prerequisites.md](steps/prerequisites.md):
 
 - kubectl
